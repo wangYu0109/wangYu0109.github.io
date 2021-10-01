@@ -7,7 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Dear&nbsp;&nbsp;xiaogu", 
-				"的小顾<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;正文一行^300你好^600爱你^600手你^200不变的心^600哈哈200五五！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二行文字^300寒い夜も、^600君と^300二人でいれば、^600ちっとも^300寒くない！<br><br><p style='float:right; display:block; width:80px;'>^1000你的^200玉林</p>"],
+				"亲爱的小顾：<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小顾小顾,^200我稀饭你^200像屎壳郎^300推粪小心翼翼，还有^200还有土豆可以^300变成土豆泥，玉米可以^300变成玉米泥，我可以^300变成我爱泥。^300爱你^600只会让我沉沦！^600一颗^200不变的♥^600给你^200！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;纵你心^300如红铁难融我三尺寒冰，^600如今^300三尺寒冰^300尽化为海浪^600,与卿共勉^300共筑温情！<br><br><p style='float:right; display:block; width:80px;'>^1000你滴^200宝儿</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
