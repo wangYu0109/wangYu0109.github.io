@@ -7,7 +7,12 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Dear&nbsp;&nbsp;xiaogu", 
-				"亲爱的小顾：<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小顾小顾,^200我稀饭你^200像屎壳郎^300推粪小心翼翼，还有^200还有土豆可以^300变成土豆泥，玉米可以^300变成玉米泥，我可以^300变成我爱泥。^300爱你^600只会让我沉沦！^600一颗^200不变的♥^600给你^200！<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;纵你心^300如红铁难融我三尺寒冰，^600如今^300三尺寒冰^300尽化为海浪^600,与卿共勉^300共筑温情！<br><br><p style='float:right; display:block; width:80px;'>^1000你滴^200宝儿</p>"],
+				"亲爱的小顾：<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最近还好吗？"
+				+"^200看不见你的日子^200甚是思念^300，"
+				+"每天起来看着窗边，那颗还没落下的月亮^200依旧悬挂在^300天边。你问我^300想要结婚吗？我想^300，与你白头。^300他乡^600的温情！^600你是^200否有所心动♥^600愿安好！^200！<br>"
+				+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+				+"白驹过隙^300，没有了你想的以前那个青涩模样。^600望^300，重新认知^300！"
+				+"<br><br><p style='float:right; display:block; width:80px;'>^1000想你的人^200</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
