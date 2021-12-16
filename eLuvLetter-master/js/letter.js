@@ -8,11 +8,7 @@ $("#open").click(function(){
 		var typed = new Typed('.letter', {
 			strings: ["^1000Dear&nbsp;&nbsp;xiaogu", 
 				"亲爱的小顾：<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最近还好吗？"
-				+"^200看不见你的日子^200甚是思念^300，"
-				+"每天起来看着窗边，那颗还没落下的月亮^200依旧悬挂在^300天边。你问我^300想要结婚吗？我想^300，与你白头。^300他乡^600的温情！^600你是^200否有所心动♥^600愿安好！^200！<br>"
-				+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-				+"白驹过隙^300，没有了你想的以前那个青涩模样。^600望^300，重新认知^300！"
-				+"<br><br><p style='float:right; display:block; width:80px;'>^1000想你的人^200</p>"],
+				+"拜拜!!!!!!!!!"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
