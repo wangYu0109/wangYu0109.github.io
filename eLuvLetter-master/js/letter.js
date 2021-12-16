@@ -8,7 +8,7 @@ $("#open").click(function(){
 		var typed = new Typed('.letter', {
 			strings: ["^1000Dear&nbsp;&nbsp;xiaogu", 
 				"亲爱的小顾：<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最近还好吗？"
-				+"拜拜!!!!!!!!!"],
+				+"拜拜!!!!!!!!!!!!"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
